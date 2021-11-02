@@ -689,7 +689,7 @@
   "color": {
     "literal": {
       "mainBlack": {
-        "value": "#000000",
+        "value": "#000",
         "type": "color"
       }
     }
