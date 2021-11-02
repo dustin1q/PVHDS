@@ -22,6 +22,10 @@
           "200": {
             "value": "#D4C9BC",
             "type": "color"
+          },
+          "300": {
+            "value": "#C4B1A1",
+            "type": "color"
           }
         },
         "beige": {
@@ -32,10 +36,6 @@
         }
       },
       "brown": {
-        "300": {
-          "value": "#C4B1A1",
-          "type": "color"
-        },
         "400": {
           "value": "#BD9E87",
           "type": "color"
