@@ -2,6 +2,9 @@
   "asset": {
     "icon": {
       "utility": {
+        "share": {
+          "value": "share.svg"
+        },
         "account": {
           "value": "account.svg"
         },
