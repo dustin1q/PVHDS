@@ -783,14 +783,14 @@
       "functional": {
         "value": {
           "duration": "{duration.300}",
-          "motion": "{cubic-bezier.linear}"
+          "motion": "{cubic_bezier.linear}"
         },
         "type": "motion"
       },
       "expressive": {
         "value": {
           "duration": "{duration.800}",
-          "motion": "{cubic-bezier.curvilinear}"
+          "motion": "{cubic_bezier.curvilinear}"
         },
         "type": "motion"
       }
@@ -805,14 +805,14 @@
         "type": "duration"
       }
     },
-    "cubic-bezier": {
+    "cubic_bezier": {
       "linear": {
         "value": "[0.42, 0, 0.58, 1]",
-        "type": "cubicBezier"
+        "type": "implicit"
       },
       "curvilinear": {
         "value": "[1, 0, 0.12, 1]",
-        "type": "cubicBezier"
+        "type": "implicit"
       }
     }
   }
