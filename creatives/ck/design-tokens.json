@@ -519,6 +519,10 @@
         "sm": {
           "value": "44",
           "type": "sizing"
+        },
+        "xs": {
+          "value": "32",
+          "type": "sizing"
         }
       },
       "form": {
